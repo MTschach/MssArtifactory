@@ -3,10 +3,10 @@
   <groupId>Mss</groupId>
   <artifactId>MssUtils</artifactId>
   <versioning>
-    <release>0.6.7</release>
+    <release>0.6.8</release>
     <versions>
-      <version>0.6.7</version>
+      <version>0.6.8</version>
     </versions>
-    <lastUpdated>20230113081116</lastUpdated>
+    <lastUpdated>20230201083742</lastUpdated>
   </versioning>
 </metadata>
